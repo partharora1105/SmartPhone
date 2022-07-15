@@ -9,3 +9,4 @@ This is JavaScript website that showcases features of a smartphone with scrollin
 <h2>Media</h2>
 # -REPE-
 # SmartPhone
+# SmartPhone
