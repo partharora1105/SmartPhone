@@ -7,6 +7,4 @@ This is JavaScript website that showcases features of a smartphone with scrollin
 	<li>Open the file in your browser</li>
 </ul>
 <h2>Media</h2>
-# -REPE-
-# SmartPhone
-# SmartPhone
+
