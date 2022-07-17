@@ -8,6 +8,6 @@ This is JavaScript website that showcases features of a smartphone with scrollin
 </ul>
 <h2>Media</h2>
 <p align="center">
-  <img src="/github/1.gif">
+  <img src="/github/main.gif">
   <br>Scroll Through Video
 </p>
